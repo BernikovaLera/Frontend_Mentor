@@ -1,5 +1,7 @@
 # Frontend_Mentor
 
+At the link you can get acquainted with the projects
+
 - [Article preview component solution](https://github.com/BernikovaLera/Article-preview-component__Frontend-Mentor)
 - [Interactive rating component solution](https://github.com/BernikovaLera/Interactive-rating-component-main__FrontendMentor)
 - [Time tracking dashboard solution](https://github.com/BernikovaLera/Time-tracking-dashboard__FrontendMentor)
