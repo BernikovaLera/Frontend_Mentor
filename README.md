@@ -10,4 +10,4 @@ At the link you can get acquainted with the projects
 - [Interactive card details form solution](https://github.com/BernikovaLera/Interactive-card-details-form__Frontend-Mentor)
 - [Ping coming soon page solution](https://github.com/BernikovaLera/Ping-single-column-coming-soon-page__Frontend-Mentor)
 - [Clipboard landing page solution](https://github.com/BernikovaLera/Clipboard-landing-page__Frontend-Mentor)
-- [Bento-grid](https://github.com/BernikovaLera/Bento-grid__Frontend-Mentor))
+- [Bento-grid](https://github.com/BernikovaLera/Bento-grid__Frontend-Mentor)
